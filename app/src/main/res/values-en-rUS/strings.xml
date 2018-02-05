@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="hello">\tHello\n</string>
+    <string name="world">World</string>
+    <string name="unit_step"> steps </string>
+    <string-array name="sheet_grid_day">
+        <item>Steps\n</item>
+        <item>Duration\n</item>
+        <item>Distance\n</item>
+        <item>Calories\n</item>
+    </string-array>
+
+</resources>
